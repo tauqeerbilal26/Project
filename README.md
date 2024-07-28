@@ -6,7 +6,7 @@ This repository contains several projects that demonstrate the principles of Obj
 - Classes and objects
 - Inheritance
 - Polymorphism
-Sure, here's a Markdown file outlining the definitions, advantages, and disadvantages of encapsulation, inheritance, polymorphism, and abstraction in object-oriented programming.
+
 
 ## Object-Oriented Programming Concepts
 
